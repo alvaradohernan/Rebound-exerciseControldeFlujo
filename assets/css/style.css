@@ -1,0 +1,51 @@
+#titulo {
+    font-style:italic;
+    font-size: 300%;
+    display: grid;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+
+}
+
+#titulodos {
+    font-style:italic;
+    font-size: 150%;
+    display: grid;
+}
+
+#select {
+  display: grid;
+  font-size: 150%;
+}
+
+#textotrekkingUno {
+    font-size: x-large;
+}
+
+#textotrekkingDos {
+    font-size: x-large;
+    color: blue;
+}
+
+#textotrekkingTres {
+    font-size: medium;
+}
+
+#textonatacionUno {
+    font-size: x-large;
+}
+
+#textonatacionDos {
+    font-size: x-large;
+    color: blue;
+}
+
+#textoferryUno {
+    font-size: x-large;
+}
+
+#textoferryDos {
+    font-size: x-large;
+    color: blue;
+}
